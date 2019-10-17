@@ -1,0 +1,39 @@
+header {
+  height: 200px;
+}
+
+.navbar-top {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+  padding: 5px;
+}
+
+ul {
+  float: right;
+  margin-right: 10px;
+}
+
+img#cricket {
+  width: 20%;
+
+  margin-left: 40%;
+}
+
+img#man-pic {
+  width: 120px;
+  float: right;
+  margin-right: 25px;
+}
+
+.myside {
+  float: left;
+  width: 15%;
+  background-color: blue;
+  height: 1000px;
+  margin-left: 15px;
+
+}
